@@ -1,6 +1,6 @@
 
 # Cronograma de Atividades 📆✔️
-- Um projeto respansivo criado para organizar o dia a dia de um usuário 👥.
+- Um projeto responsivo criado para organizar o dia a dia de um usuário 👥.
 ## Ferramentas utilizadas 🔨
 <main>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-e61700?style=for-the-badge&logo=html5&logoColor=white">
